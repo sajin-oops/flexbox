@@ -1,0 +1,29 @@
+.container{
+  background-color: cornflowerblue;
+  min-height: 700px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 1px;
+}
+
+p{
+  width: 200px;
+  height:100px;
+  background-color: rgb(127, 210, 255);
+  justify-content: space-between;
+  text-align: center;
+  padding: 1px;
+}
+.first{
+  text-align: center;
+  background-color: rgb(0, 255, 136);
+  text-decoration: underline;
+}
+.bluebox{
+  background-color: rgb(32, 171, 87);
+  height: 30px;
+  width: auto;
+
+}
